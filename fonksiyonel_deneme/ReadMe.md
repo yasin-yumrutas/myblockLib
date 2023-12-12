@@ -1,0 +1,1 @@
+Burda kendi blockchain kütüphanemi oluşturmaya çalışıyorum
